@@ -7,6 +7,7 @@ trigger:
 - main
 
 pool:
+  name: pipelinesdemo
   vmImage: ubuntu-latest
 
 strategy:
